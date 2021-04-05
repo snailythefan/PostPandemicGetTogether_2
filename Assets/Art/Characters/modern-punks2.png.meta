@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: f3cb220b7ffc02543add6ef0745dca22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3406147460148708238
+    second: modern-punks2_0
+  - first:
+      213: -8412145240473916067
+    second: modern-punks2_1
+  - first:
+      213: 4959321180994936149
+    second: modern-punks2_2
+  - first:
+      213: 5501763326533002152
+    second: modern-punks2_3
+  - first:
+      213: -770707334663820721
+    second: modern-punks2_4
+  - first:
+      213: 8892970876539094332
+    second: modern-punks2_5
+  - first:
+      213: 2285858884930415108
+    second: modern-punks2_6
+  - first:
+      213: -4790310534513510792
+    second: modern-punks2_7
+  - first:
+      213: -8857735364814517029
+    second: modern-punks2_8
+  - first:
+      213: -3517288379940456975
+    second: modern-punks2_9
+  - first:
+      213: -7320100224609953996
+    second: modern-punks2_10
+  - first:
+      213: 4467730269276438141
+    second: modern-punks2_11
+  - first:
+      213: 5494652924285462239
+    second: modern-punks2_12
+  - first:
+      213: -3173385395528719713
+    second: modern-punks2_13
+  - first:
+      213: 5193750704571704828
+    second: modern-punks2_14
+  - first:
+      213: 2738294320510149722
+    second: modern-punks2_15
+  - first:
+      213: 8424117710997065465
+    second: modern-punks2_16
+  - first:
+      213: -4770725924167319468
+    second: modern-punks2_17
+  - first:
+      213: 4796333497480412543
+    second: modern-punks2_18
+  - first:
+      213: -6945854253884774416
+    second: modern-punks2_19
+  - first:
+      213: -8481000706610423802
+    second: modern-punks2_20
+  - first:
+      213: -8822601444789990087
+    second: modern-punks2_21
+  - first:
+      213: 3735931451695731467
+    second: modern-punks2_22
+  - first:
+      213: 7155894048327562672
+    second: modern-punks2_23
+  - first:
+      213: -1997963594766368370
+    second: modern-punks2_24
+  - first:
+      213: -7282515893119353363
+    second: modern-punks2_25
+  - first:
+      213: 4315619770379593317
+    second: modern-punks2_26
+  - first:
+      213: -4640626931126063109
+    second: modern-punks2_27
+  - first:
+      213: -2183736270370560194
+    second: modern-punks2_28
+  - first:
+      213: 3335178965181178343
+    second: modern-punks2_29
+  - first:
+      213: 9059283430541875466
+    second: modern-punks2_30
+  - first:
+      213: 2265787528552848580
+    second: modern-punks2_31
+  - first:
+      213: -4652338791060683773
+    second: modern-punks2_32
+  - first:
+      213: 8495308983210401308
+    second: modern-punks2_33
+  - first:
+      213: 6654777884633702156
+    second: modern-punks2_34
+  - first:
+      213: 5996169619397490391
+    second: modern-punks2_35
+  - first:
+      213: 4588810443356727190
+    second: modern-punks2_36
+  - first:
+      213: -8086890230265009908
+    second: modern-punks2_37
+  - first:
+      213: -3586678410305696553
+    second: modern-punks2_38
+  - first:
+      213: -4018736285089980887
+    second: modern-punks2_39
+  - first:
+      213: 2191199538682867201
+    second: modern-punks2_40
+  - first:
+      213: -2675590875133754573
+    second: modern-punks2_41
+  - first:
+      213: 3092837315580823763
+    second: modern-punks2_42
+  - first:
+      213: 813292919929488424
+    second: modern-punks2_43
+  - first:
+      213: 5127371228874826225
+    second: modern-punks2_44
+  - first:
+      213: -7415718256973531963
+    second: modern-punks2_45
+  - first:
+      213: -883106245812485327
+    second: modern-punks2_46
+  - first:
+      213: 3667354836010683220
+    second: modern-punks2_47
+  - first:
+      213: 6678616896772522034
+    second: modern-punks2_48
+  - first:
+      213: -986148174786959138
+    second: modern-punks2_49
+  - first:
+      213: -8518597856538947138
+    second: modern-punks2_50
+  - first:
+      213: 1928072270261541438
+    second: modern-punks2_51
+  - first:
+      213: -6732127351727911918
+    second: modern-punks2_52
+  - first:
+      213: 1061988755228207518
+    second: modern-punks2_53
+  - first:
+      213: 3816730625262627785
+    second: modern-punks2_54
+  - first:
+      213: 3416598890993198591
+    second: modern-punks2_55
+  - first:
+      213: 1821904380857825553
+    second: modern-punks2_56
+  - first:
+      213: -3441102290275964740
+    second: modern-punks2_57
+  - first:
+      213: -1793096638678530071
+    second: modern-punks2_58
+  - first:
+      213: 3980992424817863576
+    second: modern-punks2_59
+  - first:
+      213: 6176372136883449945
+    second: modern-punks2_60
+  - first:
+      213: 5487096471861205087
+    second: modern-punks2_61
+  - first:
+      213: 7438836786614809935
+    second: modern-punks2_62
+  - first:
+      213: 1983812993587250654
+    second: modern-punks2_63
+  - first:
+      213: -8593755611009211810
+    second: modern-punks2_64
+  - first:
+      213: 6941018790888712559
+    second: modern-punks2_65
+  - first:
+      213: -1102239321140718817
+    second: modern-punks2_66
+  - first:
+      213: -6880385304413508043
+    second: modern-punks2_67
+  - first:
+      213: -7532347941615429144
+    second: modern-punks2_68
+  - first:
+      213: -6344478925533605833
+    second: modern-punks2_69
+  - first:
+      213: 5485821619959067538
+    second: modern-punks2_70
+  - first:
+      213: 4637439588824009342
+    second: modern-punks2_71
+  - first:
+      213: 5742786031795675936
+    second: modern-punks2_72
+  - first:
+      213: 499625612116619941
+    second: modern-punks2_73
+  - first:
+      213: 9194571108895231233
+    second: modern-punks2_74
+  - first:
+      213: 6363136193471302976
+    second: modern-punks2_75
+  - first:
+      213: 8413413862652820447
+    second: modern-punks2_76
+  - first:
+      213: 8499930875108582943
+    second: modern-punks2_77
+  - first:
+      213: -1387402116972918466
+    second: modern-punks2_78
+  - first:
+      213: 3314187907694044633
+    second: modern-punks2_79
+  - first:
+      213: -5228218838931158872
+    second: modern-punks2_80
+  - first:
+      213: 6853829936696331925
+    second: modern-punks2_81
+  - first:
+      213: 3709237424126722693
+    second: modern-punks2_82
+  - first:
+      213: 8101617907148158258
+    second: modern-punks2_83
+  - first:
+      213: 8146104294078932247
+    second: modern-punks2_84
+  - first:
+      213: -5822896915452136163
+    second: modern-punks2_85
+  - first:
+      213: 4602028568564794480
+    second: modern-punks2_86
+  - first:
+      213: -6406709829625359003
+    second: modern-punks2_87
+  - first:
+      213: 8873843194604011128
+    second: modern-punks2_88
+  - first:
+      213: 1907771236109407763
+    second: modern-punks2_89
+  - first:
+      213: -4417125564948072807
+    second: modern-punks2_90
+  - first:
+      213: 8070252899780306164
+    second: modern-punks2_91
+  - first:
+      213: -4563709819427551655
+    second: modern-punks2_92
+  - first:
+      213: 5193876795842395697
+    second: modern-punks2_93
+  - first:
+      213: 5611199667823398436
+    second: modern-punks2_94
+  - first:
+      213: -6844999370180781683
+    second: modern-punks2_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: modern-punks2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8343c68111154f20800000000000000
+      internalID: 3406147460148708238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2f86297e024b80800000000000000
+      internalID: -8412145240473916067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 336
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1648a65c03d440800000000000000
+      internalID: 4959321180994936149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 336
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3654c88903a5c40800000000000000
+      internalID: 5501763326533002152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 336
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a239333c5ed45f0800000000000000
+      internalID: -770707334663820721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 336
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c10e25ed2a6b70800000000000000
+      internalID: 8892970876539094332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 336
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa2fa7b8009bf10800000000000000
+      internalID: 2285858884930415108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 336
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b282f2f5658db0800000000000000
+      internalID: -4790310534513510792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 336
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc0d1bd90031580800000000000000
+      internalID: -8857735364814517029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 336
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f53a059ad4103fc0800000000000000
+      internalID: -3517288379940456975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 336
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437ddd711a7c96a90800000000000000
+      internalID: -7320100224609953996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 336
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7b744201900e30800000000000000
+      internalID: 4467730269276438141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a81409bde04c40800000000000000
+      internalID: 5494652924285462239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92291ccbced5f3d0800000000000000
+      internalID: -3173385395528719713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf56ee58fb8e31840800000000000000
+      internalID: 5193750704571704828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 288
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a542a782d20600620800000000000000
+      internalID: 2738294320510149722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8e0edc6a78e470800000000000000
+      internalID: 8424117710997065465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 288
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45082416c0afacdb0800000000000000
+      internalID: -4770725924167319468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d70a567efff8240800000000000000
+      internalID: 4796333497480412543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7ef875b5e5b9f90800000000000000
+      internalID: -6945854253884774416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60816a6aace6d4a80800000000000000
+      internalID: -8481000706610423802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 288
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc178eab2df8580800000000000000
+      internalID: -8822601444789990087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 288
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03988b8cd1b8d330800000000000000
+      internalID: 3735931451695731467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 288
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b575e039b7de4360800000000000000
+      internalID: 7155894048327562672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c9cb32bec544e0800000000000000
+      internalID: -1997963594766368370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 240
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedfb7f216e4fea90800000000000000
+      internalID: -7282515893119353363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e027e05924eb30800000000000000
+      internalID: 4315619770379593317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffae1ba46e299fb0800000000000000
+      internalID: -4640626931126063109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e372d699e6fc1b1e0800000000000000
+      internalID: -2183736270370560194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1aaf9299fe84e20800000000000000
+      internalID: 3335178965181178343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d70d284a09bd70800000000000000
+      internalID: 9059283430541875466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 240
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc17e7a0c1b17f10800000000000000
+      internalID: 2265787528552848580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ce08c4829f6fb0800000000000000
+      internalID: -4652338791060683773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 240
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed079928665e570800000000000000
+      internalID: 8495308983210401308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 240
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f97b04a358a5c50800000000000000
+      internalID: 6654777884633702156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63d21ff7ca63350800000000000000
+      internalID: 5996169619397490391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69761e129cabeaf30800000000000000
+      internalID: 4588810443356727190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092a778e2895cf80800000000000000
+      internalID: -8086890230265009908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8a262dfe893ec0800000000000000
+      internalID: -3586678410305696553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1d3114a49a38c0800000000000000
+      internalID: -4018736285089980887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2137fe54b86e10800000000000000
+      internalID: 2191199538682867201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 192
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333406366446edad0800000000000000
+      internalID: -2675590875133754573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88447e627fbea20800000000000000
+      internalID: 3092837315580823763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_43
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 192
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ccb60a95694b00800000000000000
+      internalID: 813292919929488424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f164a877f4182740800000000000000
+      internalID: 5127371228874826225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 192
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b6b21983161990800000000000000
+      internalID: -7415718256973531963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_46
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1330b6f5c839eb3f0800000000000000
+      internalID: -883106245812485327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 192
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4ab9facf05e230800000000000000
+      internalID: 3667354836010683220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304c0bcea63fac50800000000000000
+      internalID: 6678616896772522034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86ce9b57f7052f0800000000000000
+      internalID: -986148174786959138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19798026cd7c980800000000000000
+      internalID: -8518597856538947138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 144
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a5832b383e1ca10800000000000000
+      internalID: 1928072270261541438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c019987dda292a0800000000000000
+      internalID: -6732127351727911918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 144
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9926de6521fcbe00800000000000000
+      internalID: 1061988755228207518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb22222840c7f430800000000000000
+      internalID: 3816730625262627785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 144
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5a4a5e6923a6f20800000000000000
+      internalID: 3416598890993198591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11932cba164b84910800000000000000
+      internalID: 1821904380857825553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 144
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86150e2bfbe30d0800000000000000
+      internalID: -3441102290275964740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 144
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e78e9b7b14ad17e0800000000000000
+      internalID: -1793096638678530071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_59
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 144
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b2ac6a4835f3730800000000000000
+      internalID: 3980992424817863576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950fe831cb1e6b550800000000000000
+      internalID: 6176372136883449945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5816955b25162c40800000000000000
+      internalID: 5487096471861205087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b84015ae0c3760800000000000000
+      internalID: 7438836786614809935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 96
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5829f286be78b10800000000000000
+      internalID: 1983812993587250654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52a64fadc8dcb880800000000000000
+      internalID: -8593755611009211810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69ab32b0d3735060800000000000000
+      internalID: 6941018790888712559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1390f56d2f04b0f0800000000000000
+      internalID: -1102239321140718817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 96
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6d9cf406f380a0800000000000000
+      internalID: -6880385304413508043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_68
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91e578479b77790800000000000000
+      internalID: -7532347941615429144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_69
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301e9e1802e3f7a0800000000000000
+      internalID: -6344478925533605833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_70
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 96
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29371deb2bd812c40800000000000000
+      internalID: 5485821619959067538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_71
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a403f5cbe7b5040800000000000000
+      internalID: 4637439588824009342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a146287972bf40800000000000000
+      internalID: 5742786031795675936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f5ead8d60fe600800000000000000
+      internalID: 499625612116619941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 48
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d05c765bda99f70800000000000000
+      internalID: 9194571108895231233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc94597a66e4850800000000000000
+      internalID: 6363136193471302976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb4c7f45372c470800000000000000
+      internalID: 8413413862652820447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e83aa812d5f570800000000000000
+      internalID: 8499930875108582943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3944391025febce0800000000000000
+      internalID: -1387402116972918466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_79
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5affcb75c5efd20800000000000000
+      internalID: 3314187907694044633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c0819aa2a177b0800000000000000
+      internalID: -5228218838931158872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e09b7a302bd1f50800000000000000
+      internalID: 6853829936696331925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 48
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58288ace8cbd97330800000000000000
+      internalID: 3709237424126722693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357285ff8abe6070800000000000000
+      internalID: 8101617907148158258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ebdf02b6cc0170800000000000000
+      internalID: 8146104294078932247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f1ce3b1ae03fa0800000000000000
+      internalID: -5822896915452136163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074018bb990bddf30800000000000000
+      internalID: 4602028568564794480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655d2aaa5bc617a0800000000000000
+      internalID: -6406709829625359003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb3eeae59362b70800000000000000
+      internalID: 8873843194604011128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165209d4d3c97a10800000000000000
+      internalID: 1907771236109407763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99639fc93b733b2c0800000000000000
+      internalID: -4417125564948072807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_91
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a8fa114c4fff60800000000000000
+      internalID: 8070252899780306164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_92
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560f0b49127aa0c0800000000000000
+      internalID: -4563709819427551655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_93
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e745f6d6b541840800000000000000
+      internalID: 5193876795842395697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_94
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e47645e5cfedd40800000000000000
+      internalID: 5611199667823398436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-punks2_95
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891a94d65da101a0800000000000000
+      internalID: -6844999370180781683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
