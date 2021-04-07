@@ -13,6 +13,8 @@ public GameObject textbox; //Text box that will be the parent
     private int index = 1; //What line of dialogue we're on
     private bool isPlayingDialogue = false; //check if we should be playing dialogue
     private string lastTalk = "";
+
+    												
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,8 @@ public GameObject textbox; //Text box that will be the parent
         text.text = "";
         speakerTag.text = "";
         textbox.SetActive(false);
+
+        											
     }
     public void TurnOffDialogue()
     {
@@ -33,17 +37,23 @@ public GameObject textbox; //Text box that will be the parent
         dialogue[dialogue.Length - 1].speechBubble.SetActive(false);
         index = 1;
         textbox.SetActive(false);
+        											//delete this if it doesn't work
+        											dialogue[0].characterPortrait.SetActive(false);
+        											
     }
     public void StartDialogue(Dialogue[] dia)
     {
         dialogue = dia;
         textbox.SetActive(true);
+        										
         //box.SetBool("Turn On", true);
         isPlayingDialogue = true;
         text.text = dialogue[0].words;
         speakerTag.text = dialogue[0].name;
         //Turn on the first speech bubble
         dialogue[0].speechBubble.SetActive(true);
+        											//delete this if it doesn't work
+        											dialogue[0].characterPortrait.SetActive(true);
     }
     // Update is called once per frame
     void Update()
